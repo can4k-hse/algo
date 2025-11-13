@@ -1,3 +1,5 @@
+https://github.com/can4k-hse/algo/tree/main/A1
+
 **Яковлев Александр**  
 **БПИ244**  
 **id посылки: 348791238**
